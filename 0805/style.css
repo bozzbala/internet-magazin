@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Smooch&display=swap');
+
+div{
+    font-size: 18px;
+}
+
+.text1{
+    font-size: 24px;
+}
+
+.block1, .block2, .block3{
+    width: 200px;
+    height: 200px;
+}
+
+.block1{
+    background-color: aquamarine;
+    position: absolute;
+    top: 150px;
+    left: 150px;
+}
+
+.block2{
+    background-color: blueviolet;
+    position: absolute;
+    top: 200px;
+    left: 200px;
+}
+
+.block3{
+    background-color: crimson;
+    position: absolute;
+    top: 0px;
+    left: 250px;
+}
